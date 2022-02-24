@@ -1,0 +1,54 @@
+
+body{
+    background-image: linear-gradient(to right,rgb(155, 230, 93),white,rgb(228, 255, 193),white,rgb(155, 230, 93));
+}
+/*body{
+    background-color: rgba(255, 255, 255, 0.966);
+}*/
+
+.rounded{
+    height: 300px;
+   
+}
+.button col{
+    background-color: rgb(121, 9, 9);
+}
+div{
+    background-color: rgba(173, 236, 176, 0);
+}
+
+.formata_texto{
+    text-align: justify;
+}
+.container-1{
+    margin-top: 10%;
+}
+.id{
+
+    background-color: rgb(29, 82, 4);
+}
+
+.poli{
+
+    height: 30px;
+    width: 30px;
+}
+
+.samu{
+
+    height: 30px;
+
+    width: 30px;
+}
+
+.bo{
+
+    height: 30px;
+    width: 30px;
+
+}
+.carousel{
+    height: 500px;
+    width: 500px;
+}
+
